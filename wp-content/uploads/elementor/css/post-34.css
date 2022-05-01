@@ -1,7 +1,138 @@
-.elementor-34 .elementor-element.elementor-element-ac44985{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-34 .elementor-element.elementor-element-ac44985 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-34 .elementor-element.elementor-element-f42fe12:not(.elementor-motion-effects-element-type-background) > .elementor-column-wrap, .elementor-34 .elementor-element.elementor-element-f42fe12 > .elementor-column-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("http://krishientertainments.com/wp-content/uploads/2022/04/peakpx1.jpg");background-position:center center;background-size:cover;}.elementor-34 .elementor-element.elementor-element-f42fe12 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-34 .elementor-element.elementor-element-f42fe12 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-bc-flex-widget .elementor-34 .elementor-element.elementor-element-e0f35e3.elementor-column .elementor-column-wrap{align-items:flex-start;}.elementor-34 .elementor-element.elementor-element-e0f35e3.elementor-column.elementor-element[data-element_type="column"] > .elementor-column-wrap.elementor-element-populated > .elementor-widget-wrap{align-content:flex-start;align-items:flex-start;}.elementor-34 .elementor-element.elementor-element-e0f35e3{z-index:999;}.elementor-34 .elementor-element.elementor-element-b176177{text-align:left;}.elementor-34 .elementor-element.elementor-element-b176177 img{height:75px;}.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-menu-toggle{margin-left:auto;}.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu .elementor-item{font-family:"Raleway", Sans-serif;font-weight:700;line-height:30px;}.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--main .elementor-item{color:#FFFFFF;fill:#FFFFFF;}.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--main .elementor-item:hover,
-					.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--main .elementor-item.elementor-item-active,
-					.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--main .elementor-item.highlighted,
-					.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--main .elementor-item:focus{color:#FAA61A;fill:#FAA61A;}.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--dropdown a, .elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-menu-toggle{color:#000000;}.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--dropdown a:hover,
-					.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--dropdown a.elementor-item-active,
-					.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--dropdown a.highlighted,
-					.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-menu-toggle:hover{color:#FFFFFF;}.elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--dropdown .elementor-item, .elementor-34 .elementor-element.elementor-element-8cd10f1 .elementor-nav-menu--dropdown  .elementor-sub-item{font-family:"Raleway", Sans-serif;font-size:16px;font-weight:300;}@media(min-width:768px){.elementor-34 .elementor-element.elementor-element-e0f35e3{width:20.381%;}.elementor-34 .elementor-element.elementor-element-73a76c7{width:79.619%;}}
+.elementor-34 .elementor-element.elementor-element-ac44985 {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-34
+  .elementor-element.elementor-element-ac44985
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-34
+  .elementor-element.elementor-element-f42fe12:not(.elementor-motion-effects-element-type-background)
+  > .elementor-column-wrap,
+.elementor-34
+  .elementor-element.elementor-element-f42fe12
+  > .elementor-column-wrap
+  > .elementor-motion-effects-container
+  > .elementor-motion-effects-layer {
+  background-image: url("https://krishientertainments.com/wp-content/uploads/2022/04/peakpx1.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+.elementor-34
+  .elementor-element.elementor-element-f42fe12
+  > .elementor-element-populated {
+  transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
+}
+.elementor-34
+  .elementor-element.elementor-element-f42fe12
+  > .elementor-element-populated
+  > .elementor-background-overlay {
+  transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+}
+.elementor-bc-flex-widget
+  .elementor-34
+  .elementor-element.elementor-element-e0f35e3.elementor-column
+  .elementor-column-wrap {
+  align-items: flex-start;
+}
+.elementor-34
+  .elementor-element.elementor-element-e0f35e3.elementor-column.elementor-element[data-element_type="column"]
+  > .elementor-column-wrap.elementor-element-populated
+  > .elementor-widget-wrap {
+  align-content: flex-start;
+  align-items: flex-start;
+}
+.elementor-34 .elementor-element.elementor-element-e0f35e3 {
+  z-index: 999;
+}
+.elementor-34 .elementor-element.elementor-element-b176177 {
+  text-align: left;
+}
+.elementor-34 .elementor-element.elementor-element-b176177 img {
+  height: 75px;
+}
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-menu-toggle {
+  margin-left: auto;
+}
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu
+  .elementor-item {
+  font-family: "Raleway", Sans-serif;
+  font-weight: 700;
+  line-height: 30px;
+}
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--main
+  .elementor-item {
+  color: #ffffff;
+  fill: #ffffff;
+}
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--main
+  .elementor-item:hover,
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--main
+  .elementor-item.elementor-item-active,
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--main
+  .elementor-item.highlighted,
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--main
+  .elementor-item:focus {
+  color: #faa61a;
+  fill: #faa61a;
+}
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--dropdown
+  a,
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-menu-toggle {
+  color: #000000;
+}
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--dropdown
+  a:hover,
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--dropdown
+  a.elementor-item-active,
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--dropdown
+  a.highlighted,
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-menu-toggle:hover {
+  color: #ffffff;
+}
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--dropdown
+  .elementor-item,
+.elementor-34
+  .elementor-element.elementor-element-8cd10f1
+  .elementor-nav-menu--dropdown
+  .elementor-sub-item {
+  font-family: "Raleway", Sans-serif;
+  font-size: 16px;
+  font-weight: 300;
+}
+@media (min-width: 768px) {
+  .elementor-34 .elementor-element.elementor-element-e0f35e3 {
+    width: 20.381%;
+  }
+  .elementor-34 .elementor-element.elementor-element-73a76c7 {
+    width: 79.619%;
+  }
+}
