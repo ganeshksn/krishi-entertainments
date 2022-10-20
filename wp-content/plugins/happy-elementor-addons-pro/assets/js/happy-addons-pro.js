@@ -1,7 +1,6 @@
 "use strict"
 
 window.Happy = window.Happy || {}
-
 ;(function ($, Happy, w) {
   var $window = $(w)
   $(function () {
@@ -114,7 +113,7 @@ window.Happy = window.Happy || {}
       var HappyLocalTimeZone = new Date()
         .toString()
         .match(/([A-Z]+[\+-][0-9]+.*)/)[1]
-      var ha_secure = document.location.protocol === "httpss:" ? "secure" : ""
+      var ha_secure = document.location.protocol === "https:" ? "secure" : ""
       document.cookie =
         "HappyLocalTimeZone=" +
         HappyLocalTimeZone +
@@ -1512,7 +1511,7 @@ window.Happy = window.Happy || {}
           var nVideo = wrap.find("iframe, video")
           $.each(nVideo, function (idx, val) {
             var videoSrc = $(this).attr("src")
-            $(this).attr("src", "httpss://happyaddons.com/marvin/index.html")
+            $(this).attr("src", "https://happyaddons.com/marvin/index.html")
             doSetTimeout($(this), videoSrc)
           })
           wrap.removeClass("ha-modal-show")

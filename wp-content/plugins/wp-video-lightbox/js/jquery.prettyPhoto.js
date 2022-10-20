@@ -120,7 +120,6 @@
       windowWidth = $(window).width(),
       // Global elements
       pp_slideshow
-
     ;(doresize = true), (scroll_pos = _get_scroll())
 
     // Window/Keyboard events
@@ -368,9 +367,9 @@
                 movie_id = movie_id.substr(0, movie_id.indexOf("&")) // Strip anything after the &
             }
 
-            movie = "httpss://www.youtube.com/embed/" + movie_id
+            movie = "https://www.youtube.com/embed/" + movie_id
             getParam("nocookie", pp_images[set_position])
-              ? (movie = "httpss://www.youtube-nocookie.com/embed/" + movie_id)
+              ? (movie = "https://www.youtube-nocookie.com/embed/" + movie_id)
               : (movie += "")
 
             getParam("rel", pp_images[set_position])
@@ -393,7 +392,7 @@
             var regExp = /https(s?):\/\/(www\.)?vimeo.com\/(\d+)/
             var match = movie_id.match(regExp)
 
-            movie = "httpss://player.vimeo.com/video/" + match[3]
+            movie = "https://player.vimeo.com/video/" + match[3]
             getParam("p_hash", pp_images[set_position])
               ? (movie += "?h=" + getParam("p_hash", pp_images[set_position]))
               : (movie += "")
@@ -999,7 +998,6 @@
       settings.markup = settings.markup.replace("{pp_social}", "")
 
       $("body").append(settings.markup) // Inject the markup
-
       ;($pp_pic_holder = $(".pp_pic_holder")),
         ($ppt = $(".ppt")),
         ($pp_overlay = $("div.pp_overlay")) // Set my global selectors
@@ -1027,7 +1025,6 @@
         toInject = settings.gallery_markup.replace(/{gallery}/g, toInject)
 
         $pp_pic_holder.find("#pp_full_res").after(toInject)
-
         ;($pp_gallery = $(".pp_pic_holder .pp_gallery")),
           ($pp_gallery_li = $pp_gallery.find("li")) // Set the gallery selectors
 
